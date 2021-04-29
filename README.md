@@ -1,3 +1,3 @@
-#Learning About Git
+# Learning About Git
 
 Hello!
